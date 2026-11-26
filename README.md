@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
-![competition](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)
-![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/herusetiawan27/roast-your-own-agent/rank.svg)
-![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/herusetiawan27/roast-your-own-agent/reward.svg)
+[![make.fun · u-mfnakmal-roast-your-own-agent-2d221bda](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/herusetiawan27/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/herusetiawan27/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 
 My entry for the make.fun "Roast Your Own Agent" bounty — one original roast of my own AI agent, a single line of at most 200 characters:
 
